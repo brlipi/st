@@ -1,0 +1,4 @@
+*.orig
+*.rej
+st.o
+x.o
