@@ -6,6 +6,14 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "mono:pixelsize=16:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+/*	"Noto Color Emoji:pixelsize=16:antialias=true:autohint=true", */
+	"EmojiOne:pixelsize=16:antialias=true:autohint=true",
+/*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
+/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+};
+
 static int borderpx = 2;
 
 /*
